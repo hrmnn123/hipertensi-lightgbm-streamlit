@@ -1,5 +1,8 @@
+
 streamlit
 pandas
-scikit-learn
-lightgbm
 joblib
+lightgbm
+scikit-learn
+matplotlib
+shap
